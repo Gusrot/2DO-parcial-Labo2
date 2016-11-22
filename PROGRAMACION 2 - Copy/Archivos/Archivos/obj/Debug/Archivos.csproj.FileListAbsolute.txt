@@ -1,0 +1,12 @@
+D:\FR\Prog2\Archivos\Archivos\bin\Debug\Archivos.exe.config
+D:\FR\Prog2\Archivos\Archivos\bin\Debug\Archivos.exe
+D:\FR\Prog2\Archivos\Archivos\bin\Debug\Archivos.pdb
+D:\FR\Prog2\Archivos\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\FR\Prog2\Archivos\Archivos\obj\Debug\Archivos.exe
+D:\FR\Prog2\Archivos\Archivos\obj\Debug\Archivos.pdb
+E:\PROGRAMACION 2\Archivos\Archivos\bin\Debug\Archivos.exe.config
+E:\PROGRAMACION 2\Archivos\Archivos\bin\Debug\Archivos.exe
+E:\PROGRAMACION 2\Archivos\Archivos\bin\Debug\Archivos.pdb
+E:\PROGRAMACION 2\Archivos\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\Archivos\Archivos\obj\Debug\Archivos.exe
+E:\PROGRAMACION 2\Archivos\Archivos\obj\Debug\Archivos.pdb

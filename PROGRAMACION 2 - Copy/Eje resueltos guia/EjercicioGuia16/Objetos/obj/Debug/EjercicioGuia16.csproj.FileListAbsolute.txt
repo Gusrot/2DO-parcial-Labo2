@@ -1,0 +1,5 @@
+E:\PROGRAMACION 2\Eje resueltos guia\EjercicioGuia16\Objetos\bin\Debug\Objetos.exe.config
+E:\PROGRAMACION 2\Eje resueltos guia\EjercicioGuia16\Objetos\obj\Debug\Objetos.exe
+E:\PROGRAMACION 2\Eje resueltos guia\EjercicioGuia16\Objetos\obj\Debug\Objetos.pdb
+E:\PROGRAMACION 2\Eje resueltos guia\EjercicioGuia16\Objetos\bin\Debug\Objetos.exe
+E:\PROGRAMACION 2\Eje resueltos guia\EjercicioGuia16\Objetos\bin\Debug\Objetos.pdb

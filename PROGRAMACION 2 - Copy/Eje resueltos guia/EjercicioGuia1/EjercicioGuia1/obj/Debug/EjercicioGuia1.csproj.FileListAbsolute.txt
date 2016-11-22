@@ -1,0 +1,6 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\bin\Debug\EjercicioGuia1.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia1\obj\Debug\EjercicioGuia1.pdb

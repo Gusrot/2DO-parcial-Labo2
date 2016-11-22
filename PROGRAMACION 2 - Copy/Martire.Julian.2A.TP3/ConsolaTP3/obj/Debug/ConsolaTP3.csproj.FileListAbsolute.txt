@@ -1,0 +1,8 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.pdb
+C:\Users\julian\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+C:\Users\julian\Desktop\Pollio.JuanMartin.2ºA.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe

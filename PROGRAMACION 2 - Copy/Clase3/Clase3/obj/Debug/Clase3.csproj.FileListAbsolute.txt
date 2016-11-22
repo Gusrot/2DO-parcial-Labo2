@@ -1,0 +1,30 @@
+D:\JulianMartire\Clase3\Clase3\bin\Debug\Clase3.exe.config
+D:\JulianMartire\Clase3\Clase3\bin\Debug\Clase3.exe
+D:\JulianMartire\Clase3\Clase3\bin\Debug\Clase3.pdb
+D:\JulianMartire\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+D:\JulianMartire\Clase3\Clase3\obj\Debug\Clase3.exe
+D:\JulianMartire\Clase3\Clase3\obj\Debug\Clase3.pdb
+F:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.exe.config
+F:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.exe
+F:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.pdb
+F:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.exe
+F:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.pdb
+E:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.exe.config
+E:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.exe
+E:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.pdb
+E:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.exe
+E:\PROGRAMACION 2\Clase3\Clase3\bin\Debug\Clase3.pdb
+E:\PROGRAMACION 2\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+E:\Clase3\Clase3\bin\Debug\Clase3.exe.config
+E:\Clase3\Clase3\obj\Debug\Clase3.exe
+E:\Clase3\Clase3\obj\Debug\Clase3.pdb
+E:\Clase3\Clase3\bin\Debug\Clase3.exe
+E:\Clase3\Clase3\bin\Debug\Clase3.pdb
+E:\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+D:\Otero\Git\Clase3\Clase3\bin\Debug\Clase3.exe.config
+D:\Otero\Git\Clase3\Clase3\obj\Debug\Clase3.exe
+D:\Otero\Git\Clase3\Clase3\obj\Debug\Clase3.pdb
+D:\Otero\Git\Clase3\Clase3\bin\Debug\Clase3.exe
+D:\Otero\Git\Clase3\Clase3\bin\Debug\Clase3.pdb
+D:\Otero\Git\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache

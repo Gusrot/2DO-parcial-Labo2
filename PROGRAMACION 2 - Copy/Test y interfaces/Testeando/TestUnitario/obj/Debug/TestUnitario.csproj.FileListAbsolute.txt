@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Testeando\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\Testeando\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\alumno\Desktop\Testeando\TestUnitario\bin\Debug\Testeando.exe
+C:\Users\alumno\Desktop\Testeando\TestUnitario\bin\Debug\Testeando.pdb
+C:\Users\alumno\Desktop\Testeando\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Testeando\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\Testeando\TestUnitario\obj\Debug\TestUnitario.pdb

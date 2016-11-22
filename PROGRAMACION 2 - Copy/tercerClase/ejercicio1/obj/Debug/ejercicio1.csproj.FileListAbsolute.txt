@@ -1,0 +1,51 @@
+D:\Pollio Juan Martin\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\Pollio Juan Martin\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\Pollio Juan Martin\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+E:\Programación II - Lab II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\Pollio Juan Martin\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+E:\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+E:\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+E:\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\Pollio Juan Martin\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+E:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+E:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+E:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+E:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb
+F:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe.config
+F:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.exe
+F:\PROGRAMACION 2\tercerClase\ejercicio1\bin\Debug\ejercicio1.pdb
+F:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.exe
+F:\PROGRAMACION 2\tercerClase\ejercicio1\obj\Debug\ejercicio1.pdb

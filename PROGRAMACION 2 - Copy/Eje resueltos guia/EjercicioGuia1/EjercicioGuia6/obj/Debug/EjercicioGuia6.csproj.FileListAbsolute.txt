@@ -1,0 +1,5 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia6\bin\Debug\EjercicioGuia6.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia6\bin\Debug\EjercicioGuia6.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia6\bin\Debug\EjercicioGuia6.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia6\obj\Debug\EjercicioGuia6.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\EjercicioGuia1\EjercicioGuia6\obj\Debug\EjercicioGuia6.pdb

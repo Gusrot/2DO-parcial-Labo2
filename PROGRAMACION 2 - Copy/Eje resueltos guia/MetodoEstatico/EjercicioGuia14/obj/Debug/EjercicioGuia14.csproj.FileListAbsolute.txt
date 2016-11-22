@@ -1,0 +1,6 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\bin\Debug\EjercicioGuia14.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\bin\Debug\EjercicioGuia14.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\bin\Debug\EjercicioGuia14.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\obj\Debug\EjercicioGuia14.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\obj\Debug\EjercicioGuia14.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\MetodoEstatico\EjercicioGuia14\obj\Debug\EjercicioGuia14.pdb

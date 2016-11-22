@@ -1,0 +1,28 @@
+C:\Users\Usuario\Desktop\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\julian\Desktop\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\TPcentralitacSharp2016\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+E:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+H:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+H:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+H:\PROGRAMACION 2\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

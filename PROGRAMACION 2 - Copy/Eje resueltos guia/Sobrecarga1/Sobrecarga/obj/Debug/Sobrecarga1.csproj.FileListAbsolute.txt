@@ -1,0 +1,6 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\bin\Debug\Sobrecarga.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\bin\Debug\Sobrecarga.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\bin\Debug\Sobrecarga.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\obj\Debug\Sobrecarga1.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\obj\Debug\Sobrecarga.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\Sobrecarga1\Sobrecarga\obj\Debug\Sobrecarga.pdb

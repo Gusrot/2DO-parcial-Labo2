@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cclase6", "Cclase6\Cclase6.csproj", "{DCC6E138-8052-4B49-8884-6B84A63460F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForm", "WindowsForm\WindowsForm.csproj", "{BB927683-35E1-493B-9817-0F1207A03D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreteFacturacion", "FerreteFacturacion\FerreteFacturacion.csproj", "{14AEB75C-B6B4-486A-ADF2-48AF10E0CECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC6E138-8052-4B49-8884-6B84A63460F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC6E138-8052-4B49-8884-6B84A63460F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC6E138-8052-4B49-8884-6B84A63460F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC6E138-8052-4B49-8884-6B84A63460F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB927683-35E1-493B-9817-0F1207A03D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB927683-35E1-493B-9817-0F1207A03D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB927683-35E1-493B-9817-0F1207A03D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB927683-35E1-493B-9817-0F1207A03D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AEB75C-B6B4-486A-ADF2-48AF10E0CECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AEB75C-B6B4-486A-ADF2-48AF10E0CECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AEB75C-B6B4-486A-ADF2-48AF10E0CECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AEB75C-B6B4-486A-ADF2-48AF10E0CECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

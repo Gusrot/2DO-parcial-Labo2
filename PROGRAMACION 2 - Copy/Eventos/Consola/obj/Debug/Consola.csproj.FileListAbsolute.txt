@@ -1,0 +1,5 @@
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\Consola\bin\Debug\Consola.exe.config
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\Consola\bin\Debug\Consola.exe
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\Consola\bin\Debug\Consola.pdb
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\Consola\obj\Debug\Consola.exe
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\Consola\obj\Debug\Consola.pdb

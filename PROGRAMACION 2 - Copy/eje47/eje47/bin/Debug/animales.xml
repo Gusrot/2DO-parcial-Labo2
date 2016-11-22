@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><ArrayOfAnimal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><Animal xsi:type="Pez"><Patas>4</Patas><Nombre>Nemo</Nombre></Animal><Animal xsi:type="Gato"><Patas>4</Patas><Nombre>Macri</Nombre></Animal><Animal xsi:type="Araña"><Patas>4</Patas><Nombre>Davila</Nombre></Animal></ArrayOfAnimal>

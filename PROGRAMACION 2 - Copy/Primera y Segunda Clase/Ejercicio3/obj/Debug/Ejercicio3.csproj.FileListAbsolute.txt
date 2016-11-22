@@ -1,0 +1,9 @@
+D:\JulianMartire\PrimeraClase\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\JulianMartire\PrimeraClase\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\JulianMartire\PrimeraClase\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\JulianMartire\PrimeraClase\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+D:\JulianMartire\PrimeraClase\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\JulianMartire\PrimeraClase\Ejercicio3\obj\Debug\Ejercicio3.pdb
+F:\PROGRAMACION 2\Primera y Segunda Clase\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\PROGRAMACION 2\Primera y Segunda Clase\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\PROGRAMACION 2\Primera y Segunda Clase\Ejercicio3\obj\Debug\Ejercicio3.pdb

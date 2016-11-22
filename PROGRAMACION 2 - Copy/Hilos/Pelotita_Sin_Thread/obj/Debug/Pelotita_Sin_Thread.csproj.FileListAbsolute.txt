@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Hilos\Pelotita_Sin_Thread\bin\Debug\Pelotita_Sin_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita_Sin_Thread\bin\Debug\Pelotita_Sin_Thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita_Sin_Thread\obj\Debug\Pelotita_Sin_Thread.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Hilos\Pelotita_Sin_Thread\obj\Debug\Pelotita_Sin_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita_Sin_Thread\obj\Debug\Pelotita_Sin_Thread.pdb

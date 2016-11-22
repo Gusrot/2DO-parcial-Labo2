@@ -1,0 +1,12 @@
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.exe.config
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.exe
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.pdb
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.exe
+C:\Users\alumno\Desktop\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.pdb
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.exe.config
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.exe
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.pdb
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.exe
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\bin\Debug\ExpecionBasica.pdb
+H:\PROGRAMACION 2\ExpecionBasica\ExpecionBasica\obj\Debug\ExpecionBasica.csprojResolveAssemblyReference.cache

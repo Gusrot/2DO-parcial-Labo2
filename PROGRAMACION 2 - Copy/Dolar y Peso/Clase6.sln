@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase6", "Clase6\Clase6.csproj", "{95260BB5-5F3B-4ECB-A926-4CC52AC2483E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devaluacion", "Devaluacion\Devaluacion.csproj", "{042D3576-53C2-47EA-AC3E-54C8ED83E788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95260BB5-5F3B-4ECB-A926-4CC52AC2483E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95260BB5-5F3B-4ECB-A926-4CC52AC2483E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95260BB5-5F3B-4ECB-A926-4CC52AC2483E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95260BB5-5F3B-4ECB-A926-4CC52AC2483E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D3576-53C2-47EA-AC3E-54C8ED83E788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D3576-53C2-47EA-AC3E-54C8ED83E788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D3576-53C2-47EA-AC3E-54C8ED83E788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D3576-53C2-47EA-AC3E-54C8ED83E788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

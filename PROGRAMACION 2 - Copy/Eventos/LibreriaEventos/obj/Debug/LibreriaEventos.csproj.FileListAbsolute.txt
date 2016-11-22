@@ -1,0 +1,5 @@
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\LibreriaEventos\bin\Debug\LibreriaEventos.dll
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\LibreriaEventos\bin\Debug\LibreriaEventos.pdb
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\LibreriaEventos\obj\Debug\LibreriaEventos.csprojResolveAssemblyReference.cache
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\LibreriaEventos\obj\Debug\LibreriaEventos.dll
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\LibreriaEventos\obj\Debug\LibreriaEventos.pdb

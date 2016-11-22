@@ -1,0 +1,15 @@
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ProgramTp3.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\ConsolaTP3.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\Archivos.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\EntidadesAbstractas.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\EntidadesInstanciables.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\Excepciones.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\Archivos.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\EntidadesAbstractas.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\EntidadesInstanciables.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\bin\Debug\Excepciones.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ProgramTp3.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.pdb

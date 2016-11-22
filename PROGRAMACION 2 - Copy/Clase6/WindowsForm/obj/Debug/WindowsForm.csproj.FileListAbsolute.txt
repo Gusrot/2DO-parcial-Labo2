@@ -1,0 +1,9 @@
+D:\JulianMartire\Cclase6\WindowsForm\bin\Debug\WindowsForm.exe.config
+D:\JulianMartire\Cclase6\WindowsForm\bin\Debug\WindowsForm.exe
+D:\JulianMartire\Cclase6\WindowsForm\bin\Debug\WindowsForm.pdb
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.Cache
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.exe
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.pdb
+D:\JulianMartire\Cclase6\WindowsForm\obj\Debug\WindowsForm.Form1.resources

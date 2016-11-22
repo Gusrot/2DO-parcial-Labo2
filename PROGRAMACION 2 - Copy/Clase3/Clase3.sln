@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase3", "Clase3\Clase3.csproj", "{504044DA-BF2E-458A-9C61-73442AC1F246}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{9D6E716C-31A0-409C-9E94-87ABFB84C537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{EC0B40F6-8CFA-4304-8A26-C19E93D2C0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504044DA-BF2E-458A-9C61-73442AC1F246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504044DA-BF2E-458A-9C61-73442AC1F246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504044DA-BF2E-458A-9C61-73442AC1F246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504044DA-BF2E-458A-9C61-73442AC1F246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0B40F6-8CFA-4304-8A26-C19E93D2C0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0B40F6-8CFA-4304-8A26-C19E93D2C0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0B40F6-8CFA-4304-8A26-C19E93D2C0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0B40F6-8CFA-4304-8A26-C19E93D2C0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

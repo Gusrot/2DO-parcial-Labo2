@@ -1,0 +1,9 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\bin\Debug\eje4.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\bin\Debug\eje4.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\bin\Debug\eje4.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.Form1.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.Properties.Resources.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.csproj.GenerateResource.Cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje4\obj\Debug\eje4.csprojResolveAssemblyReference.cache

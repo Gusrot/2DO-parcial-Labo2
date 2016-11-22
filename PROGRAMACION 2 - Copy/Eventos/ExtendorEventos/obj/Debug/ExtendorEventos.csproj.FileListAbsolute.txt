@@ -1,0 +1,5 @@
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\ExtendorEventos\bin\Debug\ExtendorEventos.exe.config
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\ExtendorEventos\bin\Debug\ExtendorEventos.exe
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\ExtendorEventos\bin\Debug\ExtendorEventos.pdb
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\ExtendorEventos\obj\Debug\ExtendorEventos.exe
+c:\Users\alumno\documents\visual studio 2012\Projects\Eventos\ExtendorEventos\obj\Debug\ExtendorEventos.pdb

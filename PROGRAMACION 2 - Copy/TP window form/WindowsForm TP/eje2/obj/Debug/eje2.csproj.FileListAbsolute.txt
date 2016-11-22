@@ -1,0 +1,8 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\bin\Debug\eje2.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\bin\Debug\eje2.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\bin\Debug\eje2.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\obj\Debug\eje2.Form1.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\obj\Debug\eje2.Properties.Resources.resources
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\obj\Debug\eje2.csproj.GenerateResource.Cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\obj\Debug\eje2.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Eje resueltos guia\TP window form\WindowsForm TP\eje2\obj\Debug\eje2.pdb

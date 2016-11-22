@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\Indexador\Indexador\bin\Debug\Indexador.exe.config
+C:\Users\alumno\Desktop\Indexador\Indexador\bin\Debug\Indexador.exe
+C:\Users\alumno\Desktop\Indexador\Indexador\bin\Debug\Indexador.pdb
+C:\Users\alumno\Desktop\Indexador\Indexador\bin\Debug\MisClases.dll
+C:\Users\alumno\Desktop\Indexador\Indexador\bin\Debug\MisClases.pdb
+C:\Users\alumno\Desktop\Indexador\Indexador\obj\Debug\Indexador.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Indexador\Indexador\obj\Debug\Indexador.exe
+C:\Users\alumno\Desktop\Indexador\Indexador\obj\Debug\Indexador.pdb

@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\bin\Debug\UIBaseDeDatos.exe.config
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\bin\Debug\UIBaseDeDatos.exe
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\bin\Debug\UIBaseDeDatos.pdb
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.Form1.resources
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.Properties.Resources.resources
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.exe
+C:\Users\alumno\Desktop\EjemploBaseDeDatos\UIBaseDeDatos\obj\Debug\UIBaseDeDatos.pdb

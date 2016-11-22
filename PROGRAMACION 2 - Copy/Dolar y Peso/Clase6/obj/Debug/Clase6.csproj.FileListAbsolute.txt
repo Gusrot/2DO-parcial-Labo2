@@ -1,0 +1,5 @@
+D:\Otero\Clase6\Clase6\bin\Debug\Clase6.exe.config
+D:\Otero\Clase6\Clase6\bin\Debug\Clase6.exe
+D:\Otero\Clase6\Clase6\bin\Debug\Clase6.pdb
+D:\Otero\Clase6\Clase6\obj\Debug\Clase6.exe
+D:\Otero\Clase6\Clase6\obj\Debug\Clase6.pdb

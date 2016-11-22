@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Clase10\Clase10\obj\Debug\Clase10_Abstract.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase10\Clase10\bin\Debug\Clase10.exe.config
+C:\Users\alumno\Desktop\Clase10\Clase10\bin\Debug\Clase10.exe
+C:\Users\alumno\Desktop\Clase10\Clase10\bin\Debug\Clase10.pdb
+C:\Users\alumno\Desktop\Clase10\Clase10\obj\Debug\Clase10.exe
+C:\Users\alumno\Desktop\Clase10\Clase10\obj\Debug\Clase10.pdb

@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita 3.exe.config
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita 3.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita 3.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita_Con_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita_Sin_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita_Con_Thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\bin\Debug\Pelotita_Sin_Thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita 3.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita_3.Form1.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita_3.Properties.Resources.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita 3.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita 3.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita 3\obj\Debug\Pelotita 3.pdb
+F:\PROGRAMACION 2\Hilos\Pelotita 3\bin\Debug\Pelotita 3.exe.config
+F:\PROGRAMACION 2\Hilos\Pelotita 3\obj\Debug\Pelotita 3.exe
+F:\PROGRAMACION 2\Hilos\Pelotita 3\obj\Debug\Pelotita 3.pdb

@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita2.exe.config
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita2.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita2.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita_Con_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita_Sin_Thread.dll
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita_Con_Thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita2\bin\Debug\Pelotita_Sin_Thread.pdb
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.Form1.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.Properties.Resources.resources
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.exe
+C:\Users\alumno\Desktop\Hilos\Pelotita2\obj\Debug\Pelotita2.pdb

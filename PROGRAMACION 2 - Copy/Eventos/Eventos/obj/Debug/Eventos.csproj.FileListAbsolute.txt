@@ -1,0 +1,11 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\Eventos.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\obj\Debug\Eventos.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\LibreriaEventos.dll
+c:\users\alumno\documents\visual studio 2012\Projects\Eventos\Eventos\bin\Debug\LibreriaEventos.pdb

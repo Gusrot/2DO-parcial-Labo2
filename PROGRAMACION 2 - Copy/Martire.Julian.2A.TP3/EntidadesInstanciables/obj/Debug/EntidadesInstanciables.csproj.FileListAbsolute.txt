@@ -1,0 +1,25 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.exe
+F:\PROGRAMACION 2\Martire.Julian.2A.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

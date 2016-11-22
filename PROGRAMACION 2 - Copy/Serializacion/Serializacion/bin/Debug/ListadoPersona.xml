@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Aula xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><numero>0</numero><listPer><Persona><nombre>Jorge</nombre></Persona><Persona><nombre>Alan</nombre></Persona><Persona xsi:type="Alumno"><nombre>Juan</nombre><legajo>123</legajo></Persona></listPer></Aula>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{D135A626-0D2C-4597-87EF-1FE67B411CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIGuardador", "UIGuardador\UIGuardador.csproj", "{1A68239D-97C0-4618-8156-C4F4C053815B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D135A626-0D2C-4597-87EF-1FE67B411CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D135A626-0D2C-4597-87EF-1FE67B411CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D135A626-0D2C-4597-87EF-1FE67B411CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D135A626-0D2C-4597-87EF-1FE67B411CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A68239D-97C0-4618-8156-C4F4C053815B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A68239D-97C0-4618-8156-C4F4C053815B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A68239D-97C0-4618-8156-C4F4C053815B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A68239D-97C0-4618-8156-C4F4C053815B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

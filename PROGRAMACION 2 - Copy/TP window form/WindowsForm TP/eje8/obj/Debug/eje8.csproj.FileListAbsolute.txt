@@ -1,0 +1,8 @@
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\bin\Debug\eje8.exe.config
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\bin\Debug\eje8.exe
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\bin\Debug\eje8.pdb
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\obj\Debug\eje8.Form1.resources
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\obj\Debug\eje8.Properties.Resources.resources
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\obj\Debug\eje8.csproj.GenerateResource.Cache
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\obj\Debug\eje8.exe
+E:\PROGRAMACION 2\TP window form\WindowsForm TP\eje8\obj\Debug\eje8.pdb

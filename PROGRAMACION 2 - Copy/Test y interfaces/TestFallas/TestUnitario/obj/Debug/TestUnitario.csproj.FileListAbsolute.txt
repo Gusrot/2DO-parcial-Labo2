@@ -1,0 +1,21 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\Test.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\bin\Debug\Test.pdb
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\alumno\Desktop\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\bin\Debug\Test.dll
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\bin\Debug\Test.pdb
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+E:\PROGRAMACION 2\Test y interfaces\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

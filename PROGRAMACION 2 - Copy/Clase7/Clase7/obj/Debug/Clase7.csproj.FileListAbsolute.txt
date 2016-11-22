@@ -1,0 +1,12 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\bin\Debug\Clase7.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\bin\Debug\Clase7.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\bin\Debug\Clase7.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\obj\Debug\Clase7.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\obj\Debug\Clase7.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\Clase7\Clase7\obj\Debug\Clase7.pdb
+E:\PROGRAMACION 2\Clase7\Clase7\bin\Debug\Clase7.exe.config
+E:\PROGRAMACION 2\Clase7\Clase7\obj\Debug\Clase7.exe
+E:\PROGRAMACION 2\Clase7\Clase7\obj\Debug\Clase7.pdb
+E:\PROGRAMACION 2\Clase7\Clase7\bin\Debug\Clase7.exe
+E:\PROGRAMACION 2\Clase7\Clase7\bin\Debug\Clase7.pdb
+E:\PROGRAMACION 2\Clase7\Clase7\obj\Debug\Clase7.csprojResolveAssemblyReference.cache

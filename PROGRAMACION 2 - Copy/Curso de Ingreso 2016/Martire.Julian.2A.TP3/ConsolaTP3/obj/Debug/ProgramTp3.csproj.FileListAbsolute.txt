@@ -1,0 +1,2 @@
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ProgramTp3.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\ConsolaTP3\obj\Debug\ConsolaTP3.exe

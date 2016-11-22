@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\ASd\ASd\bin\Debug\ASd.exe.config
+C:\Users\alumno\Desktop\ASd\ASd\bin\Debug\ASd.exe
+C:\Users\alumno\Desktop\ASd\ASd\bin\Debug\ASd.pdb
+C:\Users\alumno\Desktop\ASd\ASd\obj\Debug\ASd.exe
+C:\Users\alumno\Desktop\ASd\ASd\obj\Debug\ASd.pdb

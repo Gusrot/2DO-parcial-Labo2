@@ -1,0 +1,5 @@
+D:\JulianMartire\Cclase6\Cclase6\bin\Debug\Cclase6.exe.config
+D:\JulianMartire\Cclase6\Cclase6\bin\Debug\Cclase6.exe
+D:\JulianMartire\Cclase6\Cclase6\bin\Debug\Cclase6.pdb
+D:\JulianMartire\Cclase6\Cclase6\obj\Debug\Cclase6.exe
+D:\JulianMartire\Cclase6\Cclase6\obj\Debug\Cclase6.pdb

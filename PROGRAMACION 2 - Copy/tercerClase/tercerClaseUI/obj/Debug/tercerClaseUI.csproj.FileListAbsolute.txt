@@ -1,0 +1,47 @@
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe.config
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.pdb
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.exe
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.pdb
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csprojResolveAssemblyReference.cache
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Form1.resources
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Properties.Resources.resources
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csproj.GenerateResource.Cache
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.exe
+E:\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe.config
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.exe
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.pdb
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Form1.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Properties.Resources.resources
+C:\Users\Juan Martin\Desktop\Facultad\Laboratorio II y Programación II\clasesprogramacion\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csproj.GenerateResource.Cache
+C:\Users\julian\Desktop\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe.config
+C:\Users\julian\Desktop\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.exe
+C:\Users\julian\Desktop\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.pdb
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe.config
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.exe
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.pdb
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.pdb
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.exe
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.pdb
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Form1.resources
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Properties.Resources.resources
+E:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csproj.GenerateResource.Cache
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe.config
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.exe
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.pdb
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.exe
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\tercerClaseUI.pdb
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.exe
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\bin\Debug\ejercicio1.pdb
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Form1.resources
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.Properties.Resources.resources
+F:\PROGRAMACION 2\tercerClase\tercerClaseUI\obj\Debug\tercerClaseUI.csproj.GenerateResource.Cache

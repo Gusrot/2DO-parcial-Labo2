@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Testeando\Testeando\bin\Debug\Testeando.exe.config
+C:\Users\alumno\Desktop\Testeando\Testeando\bin\Debug\Testeando.exe
+C:\Users\alumno\Desktop\Testeando\Testeando\bin\Debug\Testeando.pdb
+C:\Users\alumno\Desktop\Testeando\Testeando\obj\Debug\Testeando.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Testeando\Testeando\obj\Debug\Testeando.exe
+C:\Users\alumno\Desktop\Testeando\Testeando\obj\Debug\Testeando.pdb

@@ -1,0 +1,6 @@
+D:\JulianMartire\PrimeraClase\Ejerciocio2\bin\Debug\Ejerciocio2.exe.config
+D:\JulianMartire\PrimeraClase\Ejerciocio2\bin\Debug\Ejerciocio2.exe
+D:\JulianMartire\PrimeraClase\Ejerciocio2\bin\Debug\Ejerciocio2.pdb
+D:\JulianMartire\PrimeraClase\Ejerciocio2\obj\Debug\Ejerciocio2.exe
+D:\JulianMartire\PrimeraClase\Ejerciocio2\obj\Debug\Ejerciocio2.pdb
+D:\JulianMartire\PrimeraClase\Ejerciocio2\obj\Debug\Ejerciocio2.csprojResolveAssemblyReference.cache

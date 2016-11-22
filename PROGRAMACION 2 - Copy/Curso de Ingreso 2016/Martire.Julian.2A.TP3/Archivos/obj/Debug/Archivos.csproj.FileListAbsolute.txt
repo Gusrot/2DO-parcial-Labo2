@@ -1,0 +1,8 @@
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\bin\Debug\Archivos.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.exe
+C:\Users\Juan Martin\Desktop\Pollio.JuanMartin.2ºA.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Archivos\obj\Debug\Archivos.exe
+C:\Users\julian\Desktop\Martire.Julian.2A.TP3\Archivos\obj\Debug\Archivos.pdb

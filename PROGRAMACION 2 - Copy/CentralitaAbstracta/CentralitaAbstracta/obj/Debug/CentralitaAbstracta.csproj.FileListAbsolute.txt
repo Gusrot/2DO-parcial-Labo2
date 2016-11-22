@@ -1,0 +1,18 @@
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+C:\Users\julian\Desktop\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+H:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe.config
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.exe
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.pdb
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.exe
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\bin\Debug\CentralitaAbstracta.pdb
+F:\PROGRAMACION 2\CentralitaAbstracta\CentralitaAbstracta\obj\Debug\CentralitaAbstracta.csprojResolveAssemblyReference.cache

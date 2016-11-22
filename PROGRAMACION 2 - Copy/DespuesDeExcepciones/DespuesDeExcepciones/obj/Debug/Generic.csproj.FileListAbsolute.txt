@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.exe.config
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.exe
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.pdb
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.exe
+C:\Users\alumno\Desktop\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.pdb
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.exe.config
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.exe
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.pdb
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.exe
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.pdb
+F:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+E:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\bin\Debug\DespuesDeExcepciones.exe.config
+E:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.exe
+E:\PROGRAMACION 2\DespuesDeExcepciones\DespuesDeExcepciones\obj\Debug\DespuesDeExcepciones.pdb

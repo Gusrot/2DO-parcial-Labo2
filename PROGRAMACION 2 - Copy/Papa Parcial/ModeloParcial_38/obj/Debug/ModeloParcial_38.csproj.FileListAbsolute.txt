@@ -1,0 +1,12 @@
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\bin\Debug\ModeloParcial_38.exe.config
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\bin\Debug\ModeloParcial_38.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\bin\Debug\ModeloParcial_38.pdb
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\obj\Debug\ModeloParcial_38.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\obj\Debug\ModeloParcial_38.exe
+C:\Users\julian\Desktop\Cuatrimestre 2\ModeloParcial_38\ModeloParcial_38\obj\Debug\ModeloParcial_38.pdb
+H:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\bin\Debug\ModeloParcial_38.exe.config
+H:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\obj\Debug\ModeloParcial_38.exe
+H:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\obj\Debug\ModeloParcial_38.pdb
+F:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\bin\Debug\ModeloParcial_38.exe.config
+F:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\obj\Debug\ModeloParcial_38.exe
+F:\PROGRAMACION 2\Papa Parcial\ModeloParcial_38\obj\Debug\ModeloParcial_38.pdb

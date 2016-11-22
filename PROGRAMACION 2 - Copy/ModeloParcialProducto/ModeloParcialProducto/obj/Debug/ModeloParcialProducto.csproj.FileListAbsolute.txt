@@ -1,0 +1,9 @@
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\bin\Debug\ModeloParcialProducto.exe.config
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\obj\Debug\ModeloParcialProducto.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\bin\Debug\ModeloParcialProducto.exe
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\bin\Debug\ModeloParcialProducto.pdb
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\obj\Debug\ModeloParcialProducto.exe
+C:\Users\alumno\Desktop\ModeloParcialProducto\ModeloParcialProducto\obj\Debug\ModeloParcialProducto.pdb
+F:\PROGRAMACION 2\ModeloParcialProducto\ModeloParcialProducto\bin\Debug\ModeloParcialProducto.exe.config
+F:\PROGRAMACION 2\ModeloParcialProducto\ModeloParcialProducto\obj\Debug\ModeloParcialProducto.exe
+F:\PROGRAMACION 2\ModeloParcialProducto\ModeloParcialProducto\obj\Debug\ModeloParcialProducto.pdb

@@ -1,0 +1,5 @@
+C:\Users\julian\Desktop\eje47\eje47\bin\Debug\eje47.exe
+C:\Users\julian\Desktop\eje47\eje47\bin\Debug\eje47.pdb
+C:\Users\julian\Desktop\eje47\eje47\obj\Debug\eje47.csprojResolveAssemblyReference.cache
+C:\Users\julian\Desktop\eje47\eje47\obj\Debug\eje47.exe
+C:\Users\julian\Desktop\eje47\eje47\obj\Debug\eje47.pdb
