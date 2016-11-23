@@ -1,0 +1,9 @@
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\Clases.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\Formulario.exe
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\Clases.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\bin\Debug\Formulario.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\TestUnitario\obj\Debug\TestUnitario.pdb

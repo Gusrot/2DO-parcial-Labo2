@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario", "Formulario\Formulario.csproj", "{ED646363-D123-47E4-A230-8C7A7B363119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{97F460EC-5A16-46EF-817D-EA7557F69E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{761EEF7B-D478-4CC6-8CD2-DF2B6C405F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED646363-D123-47E4-A230-8C7A7B363119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED646363-D123-47E4-A230-8C7A7B363119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED646363-D123-47E4-A230-8C7A7B363119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED646363-D123-47E4-A230-8C7A7B363119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F460EC-5A16-46EF-817D-EA7557F69E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F460EC-5A16-46EF-817D-EA7557F69E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F460EC-5A16-46EF-817D-EA7557F69E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F460EC-5A16-46EF-817D-EA7557F69E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761EEF7B-D478-4CC6-8CD2-DF2B6C405F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761EEF7B-D478-4CC6-8CD2-DF2B6C405F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761EEF7B-D478-4CC6-8CD2-DF2B6C405F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761EEF7B-D478-4CC6-8CD2-DF2B6C405F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.Form1.resources
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.csproj.GenerateResource.Cache
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\bin\Debug\Formulario.exe
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\bin\Debug\Formulario.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\bin\Debug\Clases.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\bin\Debug\Clases.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.exe
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Formulario\obj\Debug\Formulario.pdb

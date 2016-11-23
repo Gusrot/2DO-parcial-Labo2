@@ -1,0 +1,5 @@
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Clases\bin\Debug\Clases.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Clases\bin\Debug\Clases.pdb
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Clases\obj\Debug\Clases.dll
+D:\Rotela Gustavo\Rotela.Gustavo.2A\Rotela.Gustavo.2A\Clases\obj\Debug\Clases.pdb
