@@ -1,0 +1,9 @@
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\obj\Debug\Esqueleto.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\obj\Debug\Esqueleto.Properties.Resources.resources
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\obj\Debug\Esqueleto.csproj.GenerateResource.Cache
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\bin\Debug\Esqueleto.exe
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\bin\Debug\Esqueleto.pdb
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\obj\Debug\Esqueleto.exe
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\Esqueleto\obj\Debug\Esqueleto.pdb

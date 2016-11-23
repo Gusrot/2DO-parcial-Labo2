@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{B7F28A8E-32CB-43E7-ACBD-9D799554E881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esqueleto", "Esqueleto\Esqueleto.csproj", "{06EF7ED1-7D7A-46AC-97D9-859DDD2B66A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{0A95B5ED-7FC2-4388-BB4B-7AFB25F293C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F28A8E-32CB-43E7-ACBD-9D799554E881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F28A8E-32CB-43E7-ACBD-9D799554E881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F28A8E-32CB-43E7-ACBD-9D799554E881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F28A8E-32CB-43E7-ACBD-9D799554E881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EF7ED1-7D7A-46AC-97D9-859DDD2B66A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EF7ED1-7D7A-46AC-97D9-859DDD2B66A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EF7ED1-7D7A-46AC-97D9-859DDD2B66A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EF7ED1-7D7A-46AC-97D9-859DDD2B66A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A95B5ED-7FC2-4388-BB4B-7AFB25F293C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A95B5ED-7FC2-4388-BB4B-7AFB25F293C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A95B5ED-7FC2-4388-BB4B-7AFB25F293C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A95B5ED-7FC2-4388-BB4B-7AFB25F293C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

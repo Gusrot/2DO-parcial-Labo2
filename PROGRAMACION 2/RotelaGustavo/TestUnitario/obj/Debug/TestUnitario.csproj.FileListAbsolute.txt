@@ -1,0 +1,8 @@
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\bin\Debug\TestUnitario.dll
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\bin\Debug\TestUnitario.pdb
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\bin\Debug\Entidades.dll
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\bin\Debug\Entidades.pdb
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\obj\Debug\TestUnitario.dll
+C:\Users\gustavo\Desktop\C# todo\RotelaGustavo\TestUnitario\obj\Debug\TestUnitario.pdb
