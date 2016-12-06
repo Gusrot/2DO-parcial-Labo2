@@ -1,0 +1,10 @@
+C:\Users\Juan Martin\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.exe
+C:\Users\Juan Martin\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.pdb
+C:\Users\Juan Martin\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.csprojResolveAssemblyReference.cache
+C:\Users\Juan Martin\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.exe
+C:\Users\Juan Martin\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.pdb
+C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.exe
+C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.pdb
+C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.exe
+C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.pdb
