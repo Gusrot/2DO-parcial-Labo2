@@ -62,7 +62,7 @@ namespace modeloFinal
             catch (Exception)
             {
 
-                throw new Exception("Error papu");
+                throw new Exception("Error al serializar");
             }
         }
     }

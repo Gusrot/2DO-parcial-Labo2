@@ -10,10 +10,10 @@ namespace modeloFinal
         public int cantidad;
 
         public ProdVendido()
-            : base()
         {
- 
+
         }
+
         public ProdVendido(string nombre,int stock) : base(nombre,stock)
         { 
             

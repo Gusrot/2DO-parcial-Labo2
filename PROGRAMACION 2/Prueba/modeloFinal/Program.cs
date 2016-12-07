@@ -50,12 +50,13 @@ namespace modeloFinal
 
             try
             {
-                galpon.Cantidad = 2;
+                galpon.Cantidad = 1;
             }
             catch (Exception e)
             {
                 Console.WriteLine("Error: " + e.Message);
             }
+
             ///Punto 6
             try
             {
@@ -70,6 +71,8 @@ namespace modeloFinal
             
             Galpon<Deposito> aux = new Galpon<Deposito>();
             depositoUno.listaDeProductos.Add(new ProdVendido("Carne vendida", 1));
+            depositoDos.listaDeProductos.Add(new ProdExport("Helado Exportado", 3));
+            depositoDos.listaDeProductos.Add(new ProdImpuesto("Impuesto al helado", 15));
             aux.lista.Add(depositoUno);
             aux.lista.Add(depositoDos);
             try

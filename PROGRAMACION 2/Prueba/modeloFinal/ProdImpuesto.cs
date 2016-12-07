@@ -9,7 +9,12 @@ namespace modeloFinal
     {
         public int cantidad;
 
-        public ProdImpuesto() : base()
+        public ProdImpuesto()
+        {
+
+        }
+
+        public ProdImpuesto(string nombre,int impuesto) : base(nombre,impuesto)
         { 
             
         }

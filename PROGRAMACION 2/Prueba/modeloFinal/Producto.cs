@@ -25,11 +25,13 @@ namespace modeloFinal
             this.nombre = nombre;
             this.stock = stock;
         }
+
         public string Nombre
         {
             get { return this.nombre; }
             set { this.nombre = value; }
         }
+
         public int Stock
         {
             get { return this.stock; }
