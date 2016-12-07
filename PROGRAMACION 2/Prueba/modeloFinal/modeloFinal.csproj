@@ -40,7 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Burbujeo.cs" />
     <Compile Include="Deposito.cs" />
+    <Compile Include="ExcepcionPropia.cs" />
     <Compile Include="Galpon.cs" />
     <Compile Include="IGuardarXML.cs" />
     <Compile Include="MetodosDeExtension.cs" />
@@ -51,7 +53,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ClaseStack.cs" />
-    <Compile Include="Validacion.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

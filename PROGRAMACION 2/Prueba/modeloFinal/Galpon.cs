@@ -23,8 +23,7 @@ namespace modeloFinal
         }
             
         public int Cantidad
-        {
-            
+        {         
             set
             {
                 if (value == 0)

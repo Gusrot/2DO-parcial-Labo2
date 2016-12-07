@@ -13,5 +13,10 @@ namespace modeloFinal
         { 
             
         }
+
+        public ProdExport(string nombre,int stock):base(nombre,stock)
+        {
+
+        }
     }
 }

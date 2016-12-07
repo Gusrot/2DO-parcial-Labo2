@@ -8,3 +8,8 @@ C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.pdb
 C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\obj\Debug\modeloFinal.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.exe
 C:\Users\Usuario\Desktop\modeloFinal\modeloFinal\bin\Debug\modeloFinal.pdb
+C:\Users\gustavo\Desktop\Github Rep\2DO-parcial-Labo2\PROGRAMACION 2\Prueba\modeloFinal\obj\Debug\modeloFinal.exe
+C:\Users\gustavo\Desktop\Github Rep\2DO-parcial-Labo2\PROGRAMACION 2\Prueba\modeloFinal\obj\Debug\modeloFinal.pdb
+C:\Users\gustavo\Desktop\Github Rep\2DO-parcial-Labo2\PROGRAMACION 2\Prueba\modeloFinal\bin\Debug\modeloFinal.exe
+C:\Users\gustavo\Desktop\Github Rep\2DO-parcial-Labo2\PROGRAMACION 2\Prueba\modeloFinal\bin\Debug\modeloFinal.pdb
+C:\Users\gustavo\Desktop\Github Rep\2DO-parcial-Labo2\PROGRAMACION 2\Prueba\modeloFinal\obj\Debug\modeloFinal.csprojResolveAssemblyReference.cache

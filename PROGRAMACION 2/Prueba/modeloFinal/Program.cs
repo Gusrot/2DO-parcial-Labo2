@@ -50,7 +50,7 @@ namespace modeloFinal
 
             try
             {
-                galpon.Cantidad = 0;
+                galpon.Cantidad = 2;
             }
             catch (Exception e)
             {
@@ -77,9 +77,8 @@ namespace modeloFinal
                 if(aux.serializarXML(aux))
                     Console.WriteLine("Serializado");
             }
-            catch (Exception e)
+            catch (ExcepcionPropia e)
             {
-
                 Console.WriteLine(e.Message);
             }
             Console.ReadLine();
